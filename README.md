@@ -3,7 +3,7 @@
 ## 📋 Description
 
 This is a **basic C++ console application** that helps track your daily food intake by recording the calories and macronutrients (proteins, fats, and carbs) of each item you eat. The code is simple and runs in a single file — no GUI or advanced frameworks — just straightforward logic for calculating your daily macros.
-
+This project is made for learning purpose and to use it personally offline.
 ## 🔧 Features
 
 - Manually input food names with their:
@@ -17,13 +17,13 @@ This is a **basic C++ console application** that helps track your daily food int
 ## 💻 How It Works
 
 1. Run the program.
-2. Enter each food item and its nutritional values.
+2. Enter each food item and its nutritional values are present in database.
 3. The program keeps a running total of:
    - Total calories
    - Total protein
    - Total carbs
    - Total fat
-
+   - Total fiber
 At the end, it displays the total nutritional intake for the day.
 
 ## 🚀 Getting Started
